@@ -1,0 +1,26 @@
+Operators are the symbolic notations for specific operations / calculations
+to get the desired results
+
+1. Arithmetic Operators
+    (+, -, *, /, //, %, **)
+
+2. Assignment Operators
+    (=, +=, -=, *=, /=, //=, %=, **=)
+
+3. Conditional / Relational / Comparison Operators
+    (<, >, <=, >=, ==, !=)
+
+4. Logical Operators
+    (and, or, not)
+
+5. Bitwise Operators
+    (&, |)
+
+6. Shift Operators
+    (<<, >>)
+
+7. Identity Operators
+    (is, is not)
+
+8. Membership Operators
+    (in, not in)
