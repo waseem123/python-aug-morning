@@ -1,0 +1,8 @@
+1. Conditional
+    - if statement
+    - if-else statements
+    - if-elif-else statements
+    - nested conditions
+
+2. Choice based
+    -match statement
