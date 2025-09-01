@@ -1,0 +1,15 @@
+1. WHILE loop
+
+    while CONDITION:
+        statement 1
+        statement 2
+        ...
+        statement N
+___________________________________________________        
+2. FOR - IN loop
+
+    for iterator in  sequence:
+        statement 1
+        statement 2
+        ...
+        statement N
