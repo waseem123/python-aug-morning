@@ -7,4 +7,4 @@ if age>=18:
     else:
         print('SORRY! YOU CAN NOT VOTE.')
 else:
-    print('YOU ARE NOT ELIGIBLE')
+    print('YOU ARE NOT ELIGIBLE')  
